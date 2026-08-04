@@ -1,0 +1,2475 @@
+{
+ "n_total": 549,
+ "n_matched": 274,
+ "results": [
+  {
+   "formula": "Hg0.7Cd0.3Te",
+   "expt": 0.35,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+CdTe(0.53)",
+   "pred": 0.158,
+   "dev": 0.192
+  },
+  {
+   "formula": "Hg0.1Zn0.9Te",
+   "expt": 1.83,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+ZnTe(1.06)",
+   "pred": 0.951,
+   "dev": 0.879
+  },
+  {
+   "formula": "Pb0.92Sn0.08Se",
+   "expt": 0.06,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.715,
+   "dev": -0.655
+  },
+  {
+   "formula": "Bi2Te2.4Se0.6",
+   "expt": 0.25,
+   "type": "anion_solid",
+   "endpoints": "BiTe(0.00)+BiSe(0.00)",
+   "pred": 0.0,
+   "dev": 0.25
+  },
+  {
+   "formula": "Ga0.3As0.3Zn0.7Se0.7",
+   "expt": 1.93,
+   "type": "solid_solution",
+   "endpoints": "GaSe(0.72)+ZnSe(1.22)",
+   "pred": 1.074,
+   "dev": 0.856
+  },
+  {
+   "formula": "In0.2P0.2Ga0.8As0.8",
+   "expt": 1.58,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 0.99,
+   "dev": 0.59
+  },
+  {
+   "formula": "Ga0.9Sb0.9Hg0.1Te0.1",
+   "expt": 0.65,
+   "type": "solid_solution",
+   "endpoints": "GaTe(0.92)+HgTe(0.00)",
+   "pred": 0.825,
+   "dev": -0.175
+  },
+  {
+   "formula": "Pb0.9Sn0.1Se",
+   "expt": 0.08,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.704,
+   "dev": -0.624
+  },
+  {
+   "formula": "Bi2Te0.45Se2.55",
+   "expt": 0.2,
+   "type": "anion_solid",
+   "endpoints": "BiTe(0.00)+BiSe(0.00)",
+   "pred": 0.0,
+   "dev": 0.2
+  },
+  {
+   "formula": "Sr0.5TaO3",
+   "expt": 3.7,
+   "type": "solid_solution",
+   "endpoints": "SrO(3.40)+TaO(0.00)",
+   "pred": 1.135,
+   "dev": 2.565
+  },
+  {
+   "formula": "SnS0.8Se0.2",
+   "expt": 1.03,
+   "type": "anion_solid",
+   "endpoints": "SnS(0.74)+SnSe(0.20)",
+   "pred": 0.636,
+   "dev": 0.394
+  },
+  {
+   "formula": "Na0.75Eu1.625GeSe4",
+   "expt": 2.0,
+   "type": "solid_solution",
+   "endpoints": "NaSe(0.49)+EuSe(0.00)",
+   "pred": 0.156,
+   "dev": 1.844
+  },
+  {
+   "formula": "Hg0.5Cd0.5Se",
+   "expt": 0.8,
+   "type": "solid_solution",
+   "endpoints": "HgSe(0.00)+CdSe(0.46)",
+   "pred": 0.228,
+   "dev": 0.573
+  },
+  {
+   "formula": "Zn0.15Cd0.85Se",
+   "expt": 2.5,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+CdSe(0.46)",
+   "pred": 0.57,
+   "dev": 1.93
+  },
+  {
+   "formula": "Hg0.7Cd0.3Te",
+   "expt": 0.27,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+CdTe(0.53)",
+   "pred": 0.158,
+   "dev": 0.112
+  },
+  {
+   "formula": "In0.99Al0.01P",
+   "expt": 1.3,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+AlP(1.79)",
+   "pred": 0.346,
+   "dev": 0.954
+  },
+  {
+   "formula": "PbSe0.99S0.01",
+   "expt": 0.26,
+   "type": "anion_solid",
+   "endpoints": "PbSe(0.76)+PbS(0.58)",
+   "pred": 0.758,
+   "dev": -0.498
+  },
+  {
+   "formula": "Ga0.4Al0.6P",
+   "expt": 2.4,
+   "type": "solid_solution",
+   "endpoints": "GaP(1.16)+AlP(1.79)",
+   "pred": 1.538,
+   "dev": 0.862
+  },
+  {
+   "formula": "Cu0.35Ga1.65S2.65",
+   "expt": 2.57,
+   "type": "solid_solution",
+   "endpoints": "CuS(0.00)+GaS(1.42)",
+   "pred": 1.17,
+   "dev": 1.4
+  },
+  {
+   "formula": "Zn0.5Hg0.5Se",
+   "expt": 0.75,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+HgSe(0.00)",
+   "pred": 0.612,
+   "dev": 0.138
+  },
+  {
+   "formula": "Pb0.8Sn0.2Se",
+   "expt": 0.08,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.648,
+   "dev": -0.568
+  },
+  {
+   "formula": "PbSe0.5S0.5",
+   "expt": 0.33,
+   "type": "anion_solid",
+   "endpoints": "PbSe(0.76)+PbS(0.58)",
+   "pred": 0.669,
+   "dev": -0.339
+  },
+  {
+   "formula": "Cu0.5Ga1.5S2.5",
+   "expt": 2.46,
+   "type": "solid_solution",
+   "endpoints": "CuS(0.00)+GaS(1.42)",
+   "pred": 1.063,
+   "dev": 1.397
+  },
+  {
+   "formula": "Ga0.4As0.4Zn0.6Se0.6",
+   "expt": 1.8,
+   "type": "solid_solution",
+   "endpoints": "GaSe(0.72)+ZnSe(1.22)",
+   "pred": 1.024,
+   "dev": 0.776
+  },
+  {
+   "formula": "Ga0.95Sb0.95Hg0.05Te0.05",
+   "expt": 0.69,
+   "type": "solid_solution",
+   "endpoints": "GaTe(0.92)+HgTe(0.00)",
+   "pred": 0.871,
+   "dev": -0.181
+  },
+  {
+   "formula": "Ga0.6Al0.4P",
+   "expt": 2.35,
+   "type": "solid_solution",
+   "endpoints": "GaP(1.16)+AlP(1.79)",
+   "pred": 1.411,
+   "dev": 0.939
+  },
+  {
+   "formula": "CuGa2S3.5",
+   "expt": 2.42,
+   "type": "solid_solution",
+   "endpoints": "CuS(0.00)+GaS(1.42)",
+   "pred": 0.945,
+   "dev": 1.475
+  },
+  {
+   "formula": "Zn0.01Cd0.99Se",
+   "expt": 2.5,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+CdSe(0.46)",
+   "pred": 0.463,
+   "dev": 2.037
+  },
+  {
+   "formula": "Bi2Te0.6Se2.4",
+   "expt": 0.28,
+   "type": "anion_solid",
+   "endpoints": "BiTe(0.00)+BiSe(0.00)",
+   "pred": 0.0,
+   "dev": 0.28
+  },
+  {
+   "formula": "Bi2Te0.03Se2.97",
+   "expt": 0.27,
+   "type": "anion_solid",
+   "endpoints": "BiTe(0.00)+BiSe(0.00)",
+   "pred": 0.0,
+   "dev": 0.27
+  },
+  {
+   "formula": "Hg0.01Cd0.99Se",
+   "expt": 0.29,
+   "type": "solid_solution",
+   "endpoints": "HgSe(0.00)+CdSe(0.46)",
+   "pred": 0.45,
+   "dev": -0.16
+  },
+  {
+   "formula": "Cu0.2Ga1.8S2.8",
+   "expt": 2.7,
+   "type": "solid_solution",
+   "endpoints": "CuS(0.00)+GaS(1.42)",
+   "pred": 1.276,
+   "dev": 1.424
+  },
+  {
+   "formula": "Pb0.94Sn0.06Se",
+   "expt": 0.14,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.726,
+   "dev": -0.586
+  },
+  {
+   "formula": "In0.9P0.9Ga0.1As0.1",
+   "expt": 1.32,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 0.413,
+   "dev": 0.907
+  },
+  {
+   "formula": "Cd0.01Te0.01Al0.99Sb0.99",
+   "expt": 2.21,
+   "type": "solid_solution",
+   "endpoints": "CdTe(0.53)+AlTe(0.74)",
+   "pred": 0.739,
+   "dev": 1.471
+  },
+  {
+   "formula": "Ga0.15As0.15Zn0.85Se0.85",
+   "expt": 2.25,
+   "type": "solid_solution",
+   "endpoints": "GaSe(0.72)+ZnSe(1.22)",
+   "pred": 1.149,
+   "dev": 1.101
+  },
+  {
+   "formula": "Zn0.43Cd0.57Se",
+   "expt": 2.8,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+CdSe(0.46)",
+   "pred": 0.786,
+   "dev": 2.014
+  },
+  {
+   "formula": "Bi2Te2.4Se0.6",
+   "expt": 0.27,
+   "type": "anion_solid",
+   "endpoints": "BiTe(0.00)+BiSe(0.00)",
+   "pred": 0.0,
+   "dev": 0.27
+  },
+  {
+   "formula": "Hg0.01Zn0.99Te",
+   "expt": 2.3,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+ZnTe(1.06)",
+   "pred": 1.046,
+   "dev": 1.254
+  },
+  {
+   "formula": "Sm1.82Lu2.18Se6",
+   "expt": 1.51,
+   "type": "solid_solution",
+   "endpoints": "SmSe(0.00)+LuSe(0.00)",
+   "pred": 0.0,
+   "dev": 1.51
+  },
+  {
+   "formula": "In0.7Al0.3P",
+   "expt": 1.9,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+AlP(1.79)",
+   "pred": 0.77,
+   "dev": 1.13
+  },
+  {
+   "formula": "Hg0.2Cd0.8Se",
+   "expt": 0.45,
+   "type": "solid_solution",
+   "endpoints": "HgSe(0.00)+CdSe(0.46)",
+   "pred": 0.364,
+   "dev": 0.086
+  },
+  {
+   "formula": "Pb0.85Sn0.15Se",
+   "expt": 0.14,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.676,
+   "dev": -0.536
+  },
+  {
+   "formula": "Hg0.06Zn0.94Te",
+   "expt": 2.12,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+ZnTe(1.06)",
+   "pred": 0.994,
+   "dev": 1.126
+  },
+  {
+   "formula": "SnS0.25Se0.75",
+   "expt": 0.94,
+   "type": "anion_solid",
+   "endpoints": "SnS(0.74)+SnSe(0.20)",
+   "pred": 0.336,
+   "dev": 0.604
+  },
+  {
+   "formula": "Hg0.14Zn0.86Te",
+   "expt": 1.73,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+ZnTe(1.06)",
+   "pred": 0.909,
+   "dev": 0.821
+  },
+  {
+   "formula": "Ga0.01Sb0.01Zn0.99Te0.99",
+   "expt": 2.1,
+   "type": "solid_solution",
+   "endpoints": "GaTe(0.92)+ZnTe(1.06)",
+   "pred": 1.056,
+   "dev": 1.044
+  },
+  {
+   "formula": "In0.5Al0.5P",
+   "expt": 2.4,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+AlP(1.79)",
+   "pred": 1.062,
+   "dev": 1.337
+  },
+  {
+   "formula": "Bi9O7.5S6",
+   "expt": 1.27,
+   "type": "anion_solid",
+   "endpoints": "BiO(0.00)+BiS(0.00)",
+   "pred": 0.0,
+   "dev": 1.27
+  },
+  {
+   "formula": "Hg0.14Zn0.86Te",
+   "expt": 1.66,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+ZnTe(1.06)",
+   "pred": 0.909,
+   "dev": 0.751
+  },
+  {
+   "formula": "Cu0.8Ga1.2Se2.2",
+   "expt": 1.58,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+GaSe(0.72)",
+   "pred": 0.435,
+   "dev": 1.145
+  },
+  {
+   "formula": "Zn0.85Hg0.15Se",
+   "expt": 1.8,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+HgSe(0.00)",
+   "pred": 1.04,
+   "dev": 0.76
+  },
+  {
+   "formula": "Cd0.55Te0.55Al0.45Sb0.45",
+   "expt": 1.93,
+   "type": "solid_solution",
+   "endpoints": "CdTe(0.53)+AlTe(0.74)",
+   "pred": 0.623,
+   "dev": 1.307
+  },
+  {
+   "formula": "Ga0.99As0.99Zn0.01Se0.01",
+   "expt": 1.39,
+   "type": "solid_solution",
+   "endpoints": "GaSe(0.72)+ZnSe(1.22)",
+   "pred": 0.73,
+   "dev": 0.66
+  },
+  {
+   "formula": "Hg0.25Zn0.75Te",
+   "expt": 1.37,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+ZnTe(1.06)",
+   "pred": 0.793,
+   "dev": 0.577
+  },
+  {
+   "formula": "Ga0.99Sb0.99Hg0.01Te0.01",
+   "expt": 0.72,
+   "type": "solid_solution",
+   "endpoints": "GaTe(0.92)+HgTe(0.00)",
+   "pred": 0.908,
+   "dev": -0.188
+  },
+  {
+   "formula": "In0.3As0.3Ga0.7P0.7",
+   "expt": 2.05,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 0.908,
+   "dev": 1.142
+  },
+  {
+   "formula": "Cu0.5Pb1.75GeS4",
+   "expt": 1.48,
+   "type": "solid_solution",
+   "endpoints": "CuS(0.00)+PbS(0.58)",
+   "pred": 0.45,
+   "dev": 1.03
+  },
+  {
+   "formula": "Hg0.9Cd0.1Se",
+   "expt": 1.3,
+   "type": "solid_solution",
+   "endpoints": "HgSe(0.00)+CdSe(0.46)",
+   "pred": 0.046,
+   "dev": 1.254
+  },
+  {
+   "formula": "Cu0.2Ga1.8Se2.8",
+   "expt": 1.86,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+GaSe(0.72)",
+   "pred": 0.652,
+   "dev": 1.208
+  },
+  {
+   "formula": "In0.7P0.7Ga0.3As0.3",
+   "expt": 1.58,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 0.578,
+   "dev": 1.002
+  },
+  {
+   "formula": "Bi2Te1.5Se1.5",
+   "expt": 0.29,
+   "type": "anion_solid",
+   "endpoints": "BiTe(0.00)+BiSe(0.00)",
+   "pred": 0.0,
+   "dev": 0.29
+  },
+  {
+   "formula": "Pb0.85Se0.85Ge0.15S0.15",
+   "expt": 0.34,
+   "type": "anion_solid",
+   "endpoints": "PbSe(0.76)+PbS(0.58)",
+   "pred": 0.733,
+   "dev": -0.393
+  },
+  {
+   "formula": "Ga0.75As0.75Zn0.25Se0.25",
+   "expt": 1.51,
+   "type": "solid_solution",
+   "endpoints": "GaSe(0.72)+ZnSe(1.22)",
+   "pred": 0.85,
+   "dev": 0.66
+  },
+  {
+   "formula": "Cu0.4Ga1.6S2.6",
+   "expt": 2.45,
+   "type": "solid_solution",
+   "endpoints": "CuS(0.00)+GaS(1.42)",
+   "pred": 1.134,
+   "dev": 1.316
+  },
+  {
+   "formula": "In0.01P0.01Ga0.99As0.99",
+   "expt": 1.43,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 1.147,
+   "dev": 0.283
+  },
+  {
+   "formula": "Ce1.3Lu0.7S3",
+   "expt": 1.25,
+   "type": "solid_solution",
+   "endpoints": "CeS(0.00)+LuS(0.00)",
+   "pred": 0.0,
+   "dev": 1.25
+  },
+  {
+   "formula": "Pb0.85Sn0.15Se",
+   "expt": 0.13,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.676,
+   "dev": -0.546
+  },
+  {
+   "formula": "SnS0.01Se0.99",
+   "expt": 0.89,
+   "type": "anion_solid",
+   "endpoints": "SnS(0.74)+SnSe(0.20)",
+   "pred": 0.204,
+   "dev": 0.686
+  },
+  {
+   "formula": "In0.99As0.99Cd0.01Te0.01",
+   "expt": 0.76,
+   "type": "solid_solution",
+   "endpoints": "InTe(0.00)+CdTe(0.53)",
+   "pred": 0.005,
+   "dev": 0.755
+  },
+  {
+   "formula": "Bi2Te0.3Se2.7",
+   "expt": 0.24,
+   "type": "anion_solid",
+   "endpoints": "BiTe(0.00)+BiSe(0.00)",
+   "pred": 0.0,
+   "dev": 0.24
+  },
+  {
+   "formula": "In0.9As0.9Ga0.1P0.1",
+   "expt": 0.45,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 0.413,
+   "dev": 0.037
+  },
+  {
+   "formula": "Cu0.5Ga1.5Se2.5",
+   "expt": 1.76,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+GaSe(0.72)",
+   "pred": 0.544,
+   "dev": 1.216
+  },
+  {
+   "formula": "Ga0.9Sb0.9Zn0.1Te0.1",
+   "expt": 1.0,
+   "type": "solid_solution",
+   "endpoints": "GaTe(0.92)+ZnTe(1.06)",
+   "pred": 0.931,
+   "dev": 0.069
+  },
+  {
+   "formula": "K2.15Pb1.7Sb8.15Se15",
+   "expt": 0.6,
+   "type": "solid_solution",
+   "endpoints": "KSe(0.00)+PbSe(0.76)",
+   "pred": 0.336,
+   "dev": 0.264
+  },
+  {
+   "formula": "Hg6.5As4CdCl6",
+   "expt": 2.05,
+   "type": "solid_solution",
+   "endpoints": "HgCl(2.25)+CdCl(0.00)",
+   "pred": 1.953,
+   "dev": 0.097
+  },
+  {
+   "formula": "Na0.5Pb1.75GeS4",
+   "expt": 2.08,
+   "type": "solid_solution",
+   "endpoints": "NaS(1.28)+PbS(0.58)",
+   "pred": 0.734,
+   "dev": 1.346
+  },
+  {
+   "formula": "Hg0.77Cd0.23Te",
+   "expt": 0.21,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+CdTe(0.53)",
+   "pred": 0.121,
+   "dev": 0.089
+  },
+  {
+   "formula": "CdS0.55Se0.45",
+   "expt": 2.05,
+   "type": "anion_solid",
+   "endpoints": "CdS(0.89)+CdSe(0.46)",
+   "pred": 0.692,
+   "dev": 1.358
+  },
+  {
+   "formula": "Zn0.99Hg0.01Se",
+   "expt": 2.6,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+HgSe(0.00)",
+   "pred": 1.212,
+   "dev": 1.388
+  },
+  {
+   "formula": "Cu0.1In1.9Se2.9",
+   "expt": 1.45,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+InSe(0.16)",
+   "pred": 0.155,
+   "dev": 1.295
+  },
+  {
+   "formula": "Bi2Te0.4Se2.6",
+   "expt": 0.7,
+   "type": "anion_solid",
+   "endpoints": "BiTe(0.00)+BiSe(0.00)",
+   "pred": 0.0,
+   "dev": 0.7
+  },
+  {
+   "formula": "Pb0.9Se0.9Ge0.1S0.1",
+   "expt": 0.32,
+   "type": "anion_solid",
+   "endpoints": "PbSe(0.76)+PbS(0.58)",
+   "pred": 0.742,
+   "dev": -0.422
+  },
+  {
+   "formula": "Pb0.9Sn0.1Se",
+   "expt": 0.17,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.704,
+   "dev": -0.534
+  },
+  {
+   "formula": "SnS0.99Se0.01",
+   "expt": 1.11,
+   "type": "anion_solid",
+   "endpoints": "SnS(0.74)+SnSe(0.20)",
+   "pred": 0.74,
+   "dev": 0.37
+  },
+  {
+   "formula": "Hg0.2Zn0.8Te",
+   "expt": 1.4,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+ZnTe(1.06)",
+   "pred": 0.846,
+   "dev": 0.554
+  },
+  {
+   "formula": "In0.99P0.99Ga0.01As0.01",
+   "expt": 1.3,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 0.339,
+   "dev": 0.961
+  },
+  {
+   "formula": "Ga0.99Al0.01P",
+   "expt": 2.27,
+   "type": "solid_solution",
+   "endpoints": "GaP(1.16)+AlP(1.79)",
+   "pred": 1.161,
+   "dev": 1.109
+  },
+  {
+   "formula": "In0.6As0.6Ga0.4P0.4",
+   "expt": 1.25,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 0.661,
+   "dev": 0.589
+  },
+  {
+   "formula": "Ga0.5As0.5Zn0.5Se0.5",
+   "expt": 1.52,
+   "type": "solid_solution",
+   "endpoints": "GaSe(0.72)+ZnSe(1.22)",
+   "pred": 0.974,
+   "dev": 0.546
+  },
+  {
+   "formula": "Hg0.9Cd0.1Se",
+   "expt": 1.32,
+   "type": "solid_solution",
+   "endpoints": "HgSe(0.00)+CdSe(0.46)",
+   "pred": 0.046,
+   "dev": 1.274
+  },
+  {
+   "formula": "CdS0.01Se0.99",
+   "expt": 1.68,
+   "type": "anion_solid",
+   "endpoints": "CdS(0.89)+CdSe(0.46)",
+   "pred": 0.459,
+   "dev": 1.221
+  },
+  {
+   "formula": "Cu0.01Ga1.99Se2.99",
+   "expt": 1.99,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+GaSe(0.72)",
+   "pred": 0.721,
+   "dev": 1.269
+  },
+  {
+   "formula": "Cu0.5In1.5Se2.5",
+   "expt": 1.24,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+InSe(0.16)",
+   "pred": 0.122,
+   "dev": 1.118
+  },
+  {
+   "formula": "Cu0.3Ga1.7S2.7",
+   "expt": 2.6,
+   "type": "solid_solution",
+   "endpoints": "CuS(0.00)+GaS(1.42)",
+   "pred": 1.205,
+   "dev": 1.395
+  },
+  {
+   "formula": "Cu0.99In1.01Se2.01",
+   "expt": 1.08,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+InSe(0.16)",
+   "pred": 0.082,
+   "dev": 0.998
+  },
+  {
+   "formula": "In0.5Ga0.5P",
+   "expt": 1.9,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 0.743,
+   "dev": 1.157
+  },
+  {
+   "formula": "Pb0.94Sn0.06Se",
+   "expt": 0.22,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.726,
+   "dev": -0.506
+  },
+  {
+   "formula": "SnS0.01Se0.99",
+   "expt": 0.95,
+   "type": "anion_solid",
+   "endpoints": "SnS(0.74)+SnSe(0.20)",
+   "pred": 0.204,
+   "dev": 0.746
+  },
+  {
+   "formula": "Ga0.1As0.1Zn0.9Se0.9",
+   "expt": 2.34,
+   "type": "solid_solution",
+   "endpoints": "GaSe(0.72)+ZnSe(1.22)",
+   "pred": 1.174,
+   "dev": 1.166
+  },
+  {
+   "formula": "La3InGe0.5S7",
+   "expt": 2.61,
+   "type": "solid_solution",
+   "endpoints": "LaS(0.00)+InS(1.04)",
+   "pred": 0.259,
+   "dev": 2.351
+  },
+  {
+   "formula": "Ge40.0Te5.3I8",
+   "expt": 0.8,
+   "type": "binary_elem",
+   "endpoints": "Ge(0.00)+Te(0.00)",
+   "pred": 0.0,
+   "dev": 0.8
+  },
+  {
+   "formula": "Bi2Te2.1Se0.9",
+   "expt": 0.29,
+   "type": "anion_solid",
+   "endpoints": "BiTe(0.00)+BiSe(0.00)",
+   "pred": 0.0,
+   "dev": 0.29
+  },
+  {
+   "formula": "Hg0.08Zn0.92Te",
+   "expt": 1.9,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+ZnTe(1.06)",
+   "pred": 0.972,
+   "dev": 0.928
+  },
+  {
+   "formula": "Cu0.9Ga1.1Se2.1",
+   "expt": 1.59,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+GaSe(0.72)",
+   "pred": 0.399,
+   "dev": 1.191
+  },
+  {
+   "formula": "Hg0.4Cd0.6Se",
+   "expt": 0.7,
+   "type": "solid_solution",
+   "endpoints": "HgSe(0.00)+CdSe(0.46)",
+   "pred": 0.273,
+   "dev": 0.427
+  },
+  {
+   "formula": "Cu0.9In1.1Se2.1",
+   "expt": 1.06,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+InSe(0.16)",
+   "pred": 0.09,
+   "dev": 0.97
+  },
+  {
+   "formula": "Pb0.8Sn0.2Se",
+   "expt": 0.06,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.648,
+   "dev": -0.588
+  },
+  {
+   "formula": "Ba3B1.5S6Sb0.5",
+   "expt": 3.01,
+   "type": "anion_solid",
+   "endpoints": "BaB(0.00)+BaS(2.15)",
+   "pred": 1.718,
+   "dev": 1.292
+  },
+  {
+   "formula": "Pb0.87Sn0.13Se",
+   "expt": 0.02,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.687,
+   "dev": -0.667
+  },
+  {
+   "formula": "La3Sb0.33SiS7",
+   "expt": 1.92,
+   "type": "anion_solid",
+   "endpoints": "LaSi(0.00)+LaS(0.00)",
+   "pred": 0.0,
+   "dev": 1.92
+  },
+  {
+   "formula": "Pb0.99Sn0.01Se",
+   "expt": 0.16,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.754,
+   "dev": -0.594
+  },
+  {
+   "formula": "Cu0.7In1.3Se2.3",
+   "expt": 1.1,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+InSe(0.16)",
+   "pred": 0.106,
+   "dev": 0.994
+  },
+  {
+   "formula": "Ga0.95Sb0.95Cd0.05Te0.05",
+   "expt": 0.74,
+   "type": "solid_solution",
+   "endpoints": "GaTe(0.92)+CdTe(0.53)",
+   "pred": 0.897,
+   "dev": -0.157
+  },
+  {
+   "formula": "Cu0.3In1.7Se2.7",
+   "expt": 1.21,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+InSe(0.16)",
+   "pred": 0.139,
+   "dev": 1.071
+  },
+  {
+   "formula": "Cu0.15Ga1.85Se2.85",
+   "expt": 1.92,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+GaSe(0.72)",
+   "pred": 0.671,
+   "dev": 1.249
+  },
+  {
+   "formula": "Pb0.94Sn0.06Se",
+   "expt": 0.17,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.726,
+   "dev": -0.556
+  },
+  {
+   "formula": "SnS0.4Se0.6",
+   "expt": 0.98,
+   "type": "anion_solid",
+   "endpoints": "SnS(0.74)+SnSe(0.20)",
+   "pred": 0.417,
+   "dev": 0.563
+  },
+  {
+   "formula": "Zn0.8Hg0.2Se",
+   "expt": 1.4,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+HgSe(0.00)",
+   "pred": 0.979,
+   "dev": 0.421
+  },
+  {
+   "formula": "Hg0.1Cd0.9Se",
+   "expt": 0.35,
+   "type": "solid_solution",
+   "endpoints": "HgSe(0.00)+CdSe(0.46)",
+   "pred": 0.41,
+   "dev": -0.06
+  },
+  {
+   "formula": "Pr1.29Lu0.71S3",
+   "expt": 1.38,
+   "type": "solid_solution",
+   "endpoints": "PrS(0.00)+LuS(0.00)",
+   "pred": 0.0,
+   "dev": 1.38
+  },
+  {
+   "formula": "Sr8.007Ge2.043Bi7.949Se24",
+   "expt": 0.74,
+   "type": "solid_solution",
+   "endpoints": "SrSe(2.24)+BiSe(0.00)",
+   "pred": 1.124,
+   "dev": -0.384
+  },
+  {
+   "formula": "In0.4As0.4Ga0.6P0.6",
+   "expt": 1.85,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 0.825,
+   "dev": 1.025
+  },
+  {
+   "formula": "SnS0.25Se0.75",
+   "expt": 0.99,
+   "type": "anion_solid",
+   "endpoints": "SnS(0.74)+SnSe(0.20)",
+   "pred": 0.336,
+   "dev": 0.654
+  },
+  {
+   "formula": "Hg0.99Cd0.01Se",
+   "expt": 1.72,
+   "type": "solid_solution",
+   "endpoints": "HgSe(0.00)+CdSe(0.46)",
+   "pred": 0.005,
+   "dev": 1.715
+  },
+  {
+   "formula": "PbSe0.95S0.05",
+   "expt": 0.26,
+   "type": "anion_solid",
+   "endpoints": "PbSe(0.76)+PbS(0.58)",
+   "pred": 0.751,
+   "dev": -0.491
+  },
+  {
+   "formula": "Cu0.05Ga1.95S2.95",
+   "expt": 2.64,
+   "type": "solid_solution",
+   "endpoints": "CuS(0.00)+GaS(1.42)",
+   "pred": 1.383,
+   "dev": 1.257
+  },
+  {
+   "formula": "Hg0.77Cd0.23Te",
+   "expt": 0.12,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+CdTe(0.53)",
+   "pred": 0.121,
+   "dev": -0.001
+  },
+  {
+   "formula": "In0.3P0.3Ga0.7As0.7",
+   "expt": 1.67,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 0.908,
+   "dev": 0.762
+  },
+  {
+   "formula": "In0.97As0.97Cd0.03Te0.03",
+   "expt": 0.71,
+   "type": "solid_solution",
+   "endpoints": "InTe(0.00)+CdTe(0.53)",
+   "pred": 0.016,
+   "dev": 0.694
+  },
+  {
+   "formula": "Hg0.65Cd0.35Te",
+   "expt": 0.28,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+CdTe(0.53)",
+   "pred": 0.184,
+   "dev": 0.096
+  },
+  {
+   "formula": "In0.1P0.1Ga0.9As0.9",
+   "expt": 1.6,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 1.073,
+   "dev": 0.527
+  },
+  {
+   "formula": "Hg0.06Zn0.94Te",
+   "expt": 2.03,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+ZnTe(1.06)",
+   "pred": 0.994,
+   "dev": 1.036
+  },
+  {
+   "formula": "Bi2Te1.2Se1.8",
+   "expt": 0.28,
+   "type": "anion_solid",
+   "endpoints": "BiTe(0.00)+BiSe(0.00)",
+   "pred": 0.0,
+   "dev": 0.28
+  },
+  {
+   "formula": "Pb0.99Sn0.01Se",
+   "expt": 0.22,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.754,
+   "dev": -0.534
+  },
+  {
+   "formula": "Cd0.99Te0.99Al0.01Sb0.01",
+   "expt": 1.6,
+   "type": "solid_solution",
+   "endpoints": "CdTe(0.53)+AlTe(0.74)",
+   "pred": 0.528,
+   "dev": 1.072
+  },
+  {
+   "formula": "Li0.2Na0.8AsSe2",
+   "expt": 1.57,
+   "type": "solid_solution",
+   "endpoints": "LiSe(0.00)+NaSe(0.49)",
+   "pred": 0.394,
+   "dev": 1.176
+  },
+  {
+   "formula": "In0.94As0.94Cd0.06Te0.06",
+   "expt": 0.68,
+   "type": "solid_solution",
+   "endpoints": "InTe(0.00)+CdTe(0.53)",
+   "pred": 0.032,
+   "dev": 0.648
+  },
+  {
+   "formula": "PbSe0.9S0.1",
+   "expt": 0.27,
+   "type": "anion_solid",
+   "endpoints": "PbSe(0.76)+PbS(0.58)",
+   "pred": 0.742,
+   "dev": -0.472
+  },
+  {
+   "formula": "Hg0.7Cd0.3Se",
+   "expt": 1.1,
+   "type": "solid_solution",
+   "endpoints": "HgSe(0.00)+CdSe(0.46)",
+   "pred": 0.137,
+   "dev": 0.964
+  },
+  {
+   "formula": "In0.9Al0.1P",
+   "expt": 1.5,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+AlP(1.79)",
+   "pred": 0.477,
+   "dev": 1.023
+  },
+  {
+   "formula": "Cd0.9Te0.9Al0.1Sb0.1",
+   "expt": 1.36,
+   "type": "solid_solution",
+   "endpoints": "CdTe(0.53)+AlTe(0.74)",
+   "pred": 0.548,
+   "dev": 0.812
+  },
+  {
+   "formula": "Ga0.99Sb0.99Cd0.01Te0.01",
+   "expt": 0.72,
+   "type": "solid_solution",
+   "endpoints": "GaTe(0.92)+CdTe(0.53)",
+   "pred": 0.913,
+   "dev": -0.193
+  },
+  {
+   "formula": "Zn0.4Hg0.6Se",
+   "expt": 0.42,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+HgSe(0.00)",
+   "pred": 0.49,
+   "dev": -0.07
+  },
+  {
+   "formula": "In0.6Al0.4P",
+   "expt": 2.12,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+AlP(1.79)",
+   "pred": 0.916,
+   "dev": 1.204
+  },
+  {
+   "formula": "Bi14.7In11.3S38",
+   "expt": 1.45,
+   "type": "solid_solution",
+   "endpoints": "BiS(0.00)+InS(1.04)",
+   "pred": 0.451,
+   "dev": 0.999
+  },
+  {
+   "formula": "Hg0.63Cd0.37Te",
+   "expt": 0.35,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+CdTe(0.53)",
+   "pred": 0.195,
+   "dev": 0.155
+  },
+  {
+   "formula": "CdS0.8Se0.2",
+   "expt": 2.23,
+   "type": "anion_solid",
+   "endpoints": "CdS(0.89)+CdSe(0.46)",
+   "pred": 0.8,
+   "dev": 1.43
+  },
+  {
+   "formula": "Rb1.45Pb3.1Sb7.45Se15",
+   "expt": 0.45,
+   "type": "solid_solution",
+   "endpoints": "RbSe(0.87)+PbSe(0.76)",
+   "pred": 0.795,
+   "dev": -0.345
+  },
+  {
+   "formula": "Ba1.88Ta15O32",
+   "expt": 0.13,
+   "type": "solid_solution",
+   "endpoints": "BaO(2.05)+TaO(0.00)",
+   "pred": 0.228,
+   "dev": -0.098
+  },
+  {
+   "formula": "Cu0.35Ga1.65S2.65",
+   "expt": 2.53,
+   "type": "solid_solution",
+   "endpoints": "CuS(0.00)+GaS(1.42)",
+   "pred": 1.17,
+   "dev": 1.36
+  },
+  {
+   "formula": "Cu0.95In1.05Se2.05",
+   "expt": 1.07,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+InSe(0.16)",
+   "pred": 0.086,
+   "dev": 0.984
+  },
+  {
+   "formula": "Hg0.8Zn0.2Te",
+   "expt": 0.08,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+ZnTe(1.06)",
+   "pred": 0.211,
+   "dev": -0.131
+  },
+  {
+   "formula": "CdS0.99Se0.01",
+   "expt": 2.4,
+   "type": "anion_solid",
+   "endpoints": "CdS(0.89)+CdSe(0.46)",
+   "pred": 0.882,
+   "dev": 1.518
+  },
+  {
+   "formula": "Cu0.99Ga1.01Se2.01",
+   "expt": 1.59,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+GaSe(0.72)",
+   "pred": 0.366,
+   "dev": 1.224
+  },
+  {
+   "formula": "Pb0.83Sn0.17Se",
+   "expt": 0.04,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.665,
+   "dev": -0.625
+  },
+  {
+   "formula": "SnS0.8Se0.2",
+   "expt": 1.07,
+   "type": "anion_solid",
+   "endpoints": "SnS(0.74)+SnSe(0.20)",
+   "pred": 0.636,
+   "dev": 0.434
+  },
+  {
+   "formula": "Hg0.1Zn0.9Te",
+   "expt": 1.74,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+ZnTe(1.06)",
+   "pred": 0.951,
+   "dev": 0.789
+  },
+  {
+   "formula": "Pb0.95Sn0.05Se",
+   "expt": 0.12,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.732,
+   "dev": -0.612
+  },
+  {
+   "formula": "Hg0.3Cd0.7Se",
+   "expt": 0.55,
+   "type": "solid_solution",
+   "endpoints": "HgSe(0.00)+CdSe(0.46)",
+   "pred": 0.319,
+   "dev": 0.232
+  },
+  {
+   "formula": "Cu0.35Ga1.65Se2.65",
+   "expt": 1.81,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+GaSe(0.72)",
+   "pred": 0.598,
+   "dev": 1.212
+  },
+  {
+   "formula": "Zn0.9Hg0.1Se",
+   "expt": 1.75,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+HgSe(0.00)",
+   "pred": 1.102,
+   "dev": 0.648
+  },
+  {
+   "formula": "Ga0.95Sb0.95Zn0.05Te0.05",
+   "expt": 0.85,
+   "type": "solid_solution",
+   "endpoints": "GaTe(0.92)+ZnTe(1.06)",
+   "pred": 0.924,
+   "dev": -0.074
+  },
+  {
+   "formula": "Hg0.25Zn0.75Te",
+   "expt": 1.25,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+ZnTe(1.06)",
+   "pred": 0.793,
+   "dev": 0.457
+  },
+  {
+   "formula": "La3Sb0.33SiSe7",
+   "expt": 1.75,
+   "type": "anion_solid",
+   "endpoints": "LaSi(0.00)+LaSe(0.00)",
+   "pred": 0.0,
+   "dev": 1.75
+  },
+  {
+   "formula": "Hg0.8Cd0.2Se",
+   "expt": 1.1,
+   "type": "solid_solution",
+   "endpoints": "HgSe(0.00)+CdSe(0.46)",
+   "pred": 0.091,
+   "dev": 1.009
+  },
+  {
+   "formula": "Cu0.35In1.65Se2.65",
+   "expt": 1.19,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+InSe(0.16)",
+   "pred": 0.134,
+   "dev": 1.056
+  },
+  {
+   "formula": "Zn0.5Cd0.5Se",
+   "expt": 3.0,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+CdSe(0.46)",
+   "pred": 0.84,
+   "dev": 2.16
+  },
+  {
+   "formula": "CuZr1.86S4",
+   "expt": 1.26,
+   "type": "solid_solution",
+   "endpoints": "CuS(0.00)+ZrS(0.00)",
+   "pred": 0.0,
+   "dev": 1.26
+  },
+  {
+   "formula": "Hg0.8Cd0.2Se",
+   "expt": 1.3,
+   "type": "solid_solution",
+   "endpoints": "HgSe(0.00)+CdSe(0.46)",
+   "pred": 0.091,
+   "dev": 1.209
+  },
+  {
+   "formula": "La3GaGe0.5S7",
+   "expt": 2.54,
+   "type": "solid_solution",
+   "endpoints": "LaS(0.00)+GaS(1.42)",
+   "pred": 0.354,
+   "dev": 2.186
+  },
+  {
+   "formula": "Na0.5Pb1.75GeSe4",
+   "expt": 1.6,
+   "type": "solid_solution",
+   "endpoints": "NaSe(0.49)+PbSe(0.76)",
+   "pred": 0.701,
+   "dev": 0.899
+  },
+  {
+   "formula": "In0.99As0.99Ga0.01P0.01",
+   "expt": 0.3,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 0.339,
+   "dev": -0.039
+  },
+  {
+   "formula": "Ga0.58As0.58Zn0.42Se0.42",
+   "expt": 1.67,
+   "type": "solid_solution",
+   "endpoints": "GaSe(0.72)+ZnSe(1.22)",
+   "pred": 0.935,
+   "dev": 0.735
+  },
+  {
+   "formula": "In0.5P0.5Ga0.5As0.5",
+   "expt": 1.75,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 0.743,
+   "dev": 1.007
+  },
+  {
+   "formula": "In0.8P0.8Ga0.2As0.2",
+   "expt": 1.4,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 0.496,
+   "dev": 0.904
+  },
+  {
+   "formula": "Zn0.75Cd0.25Se",
+   "expt": 3.2,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+CdSe(0.46)",
+   "pred": 1.032,
+   "dev": 2.168
+  },
+  {
+   "formula": "In0.1As0.1Ga0.9P0.9",
+   "expt": 2.25,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 1.073,
+   "dev": 1.177
+  },
+  {
+   "formula": "Cu0.15In1.85Se2.85",
+   "expt": 1.32,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+InSe(0.16)",
+   "pred": 0.151,
+   "dev": 1.169
+  },
+  {
+   "formula": "Hg4As2.5InBr3.5",
+   "expt": 1.71,
+   "type": "solid_solution",
+   "endpoints": "HgBr(1.82)+InBr(1.56)",
+   "pred": 1.766,
+   "dev": -0.056
+  },
+  {
+   "formula": "Hg0.2Zn0.8Te",
+   "expt": 1.46,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+ZnTe(1.06)",
+   "pred": 0.846,
+   "dev": 0.614
+  },
+  {
+   "formula": "Bi2Te0.1Se2.9",
+   "expt": 0.78,
+   "type": "anion_solid",
+   "endpoints": "BiTe(0.00)+BiSe(0.00)",
+   "pred": 0.0,
+   "dev": 0.78
+  },
+  {
+   "formula": "CdS0.35Se0.65",
+   "expt": 1.93,
+   "type": "anion_solid",
+   "endpoints": "CdS(0.89)+CdSe(0.46)",
+   "pred": 0.606,
+   "dev": 1.324
+  },
+  {
+   "formula": "In0.9As0.9Cd0.1Te0.1",
+   "expt": 0.69,
+   "type": "solid_solution",
+   "endpoints": "InTe(0.00)+CdTe(0.53)",
+   "pred": 0.053,
+   "dev": 0.637
+  },
+  {
+   "formula": "Pb0.9Sn0.1Se",
+   "expt": 0.12,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.704,
+   "dev": -0.584
+  },
+  {
+   "formula": "Zn0.75Cd0.25Se",
+   "expt": 3.3,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+CdSe(0.46)",
+   "pred": 1.032,
+   "dev": 2.268
+  },
+  {
+   "formula": "In0.96As0.96Cd0.04Te0.04",
+   "expt": 0.69,
+   "type": "solid_solution",
+   "endpoints": "InTe(0.00)+CdTe(0.53)",
+   "pred": 0.021,
+   "dev": 0.669
+  },
+  {
+   "formula": "Ga0.8Sb0.8Cd0.2Te0.2",
+   "expt": 0.8,
+   "type": "solid_solution",
+   "endpoints": "GaTe(0.92)+CdTe(0.53)",
+   "pred": 0.839,
+   "dev": -0.039
+  },
+  {
+   "formula": "In0.4Al0.6P",
+   "expt": 2.3,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+AlP(1.79)",
+   "pred": 1.209,
+   "dev": 1.091
+  },
+  {
+   "formula": "In0.4P0.4Ga0.6As0.6",
+   "expt": 1.74,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 0.825,
+   "dev": 0.915
+  },
+  {
+   "formula": "Zn0.4Hg0.6Se",
+   "expt": 0.5,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+HgSe(0.00)",
+   "pred": 0.49,
+   "dev": 0.01
+  },
+  {
+   "formula": "Pb0.75Sn0.25Se",
+   "expt": 0.04,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.62,
+   "dev": -0.58
+  },
+  {
+   "formula": "Cu0.2In1.8Se2.8",
+   "expt": 1.26,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+InSe(0.16)",
+   "pred": 0.147,
+   "dev": 1.113
+  },
+  {
+   "formula": "Zn0.99Cd0.01Se",
+   "expt": 3.7,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+CdSe(0.46)",
+   "pred": 1.216,
+   "dev": 2.484
+  },
+  {
+   "formula": "Cu0.4In1.6Se2.6",
+   "expt": 1.32,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+InSe(0.16)",
+   "pred": 0.13,
+   "dev": 1.19
+  },
+  {
+   "formula": "In0.01Al0.99P",
+   "expt": 2.4,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+AlP(1.79)",
+   "pred": 1.779,
+   "dev": 0.621
+  },
+  {
+   "formula": "Hg0.8Zn0.2Te",
+   "expt": 0.07,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+ZnTe(1.06)",
+   "pred": 0.211,
+   "dev": -0.141
+  },
+  {
+   "formula": "Zn0.99Cd0.01Se",
+   "expt": 3.6,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+CdSe(0.46)",
+   "pred": 1.216,
+   "dev": 2.384
+  },
+  {
+   "formula": "La2Ga0.33SbS5",
+   "expt": 1.76,
+   "type": "solid_solution",
+   "endpoints": "LaS(0.00)+GaS(1.42)",
+   "pred": 0.201,
+   "dev": 1.559
+  },
+  {
+   "formula": "Hg0.01Zn0.99Te",
+   "expt": 2.17,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+ZnTe(1.06)",
+   "pred": 1.046,
+   "dev": 1.124
+  },
+  {
+   "formula": "Ga0.01Al0.99P",
+   "expt": 2.49,
+   "type": "solid_solution",
+   "endpoints": "GaP(1.16)+AlP(1.79)",
+   "pred": 1.788,
+   "dev": 0.702
+  },
+  {
+   "formula": "Cu0.1Ga1.9S2.9",
+   "expt": 2.65,
+   "type": "solid_solution",
+   "endpoints": "CuS(0.00)+GaS(1.42)",
+   "pred": 1.347,
+   "dev": 1.303
+  },
+  {
+   "formula": "Zn0.01Cd0.99Se",
+   "expt": 2.4,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+CdSe(0.46)",
+   "pred": 0.463,
+   "dev": 1.937
+  },
+  {
+   "formula": "Cu0.1Ga1.9S2.9",
+   "expt": 2.6,
+   "type": "solid_solution",
+   "endpoints": "CuS(0.00)+GaS(1.42)",
+   "pred": 1.347,
+   "dev": 1.253
+  },
+  {
+   "formula": "In0.98As0.98Cd0.02Te0.02",
+   "expt": 0.73,
+   "type": "solid_solution",
+   "endpoints": "InTe(0.00)+CdTe(0.53)",
+   "pred": 0.011,
+   "dev": 0.719
+  },
+  {
+   "formula": "In0.4Ga0.6P",
+   "expt": 2.05,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 0.825,
+   "dev": 1.225
+  },
+  {
+   "formula": "Cd0.95Te0.95Al0.05Sb0.05",
+   "expt": 1.37,
+   "type": "solid_solution",
+   "endpoints": "CdTe(0.53)+AlTe(0.74)",
+   "pred": 0.537,
+   "dev": 0.833
+  },
+  {
+   "formula": "Ga0.85As0.85Zn0.15Se0.15",
+   "expt": 1.47,
+   "type": "solid_solution",
+   "endpoints": "GaSe(0.72)+ZnSe(1.22)",
+   "pred": 0.8,
+   "dev": 0.67
+  },
+  {
+   "formula": "In0.3Al0.7P",
+   "expt": 2.3,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+AlP(1.79)",
+   "pred": 1.355,
+   "dev": 0.945
+  },
+  {
+   "formula": "CuIn2S3.5",
+   "expt": 1.43,
+   "type": "solid_solution",
+   "endpoints": "CuS(0.00)+InS(1.04)",
+   "pred": 0.691,
+   "dev": 0.739
+  },
+  {
+   "formula": "Li0.5Pb1.75GeS4",
+   "expt": 1.95,
+   "type": "solid_solution",
+   "endpoints": "LiS(0.00)+PbS(0.58)",
+   "pred": 0.45,
+   "dev": 1.5
+  },
+  {
+   "formula": "Hg0.72Cd0.28Te",
+   "expt": 0.21,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+CdTe(0.53)",
+   "pred": 0.147,
+   "dev": 0.063
+  },
+  {
+   "formula": "Pb0.99Sn0.01Se",
+   "expt": 0.26,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.754,
+   "dev": -0.494
+  },
+  {
+   "formula": "Cu0.01In1.99Se2.99",
+   "expt": 1.45,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+InSe(0.16)",
+   "pred": 0.162,
+   "dev": 1.288
+  },
+  {
+   "formula": "Cu0.2Ga1.8S2.8",
+   "expt": 2.65,
+   "type": "solid_solution",
+   "endpoints": "CuS(0.00)+GaS(1.42)",
+   "pred": 1.276,
+   "dev": 1.374
+  },
+  {
+   "formula": "Zn0.55Hg0.45Se",
+   "expt": 0.8,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+HgSe(0.00)",
+   "pred": 0.673,
+   "dev": 0.127
+  },
+  {
+   "formula": "In0.8As0.8Ga0.2P0.2",
+   "expt": 0.85,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 0.496,
+   "dev": 0.354
+  },
+  {
+   "formula": "Pb0.95Se0.95Ge0.05S0.05",
+   "expt": 0.29,
+   "type": "anion_solid",
+   "endpoints": "PbSe(0.76)+PbS(0.58)",
+   "pred": 0.751,
+   "dev": -0.461
+  },
+  {
+   "formula": "CdS0.65Se0.35",
+   "expt": 2.13,
+   "type": "anion_solid",
+   "endpoints": "CdS(0.89)+CdSe(0.46)",
+   "pred": 0.735,
+   "dev": 1.395
+  },
+  {
+   "formula": "SnS0.4Se0.6",
+   "expt": 1.02,
+   "type": "anion_solid",
+   "endpoints": "SnS(0.74)+SnSe(0.20)",
+   "pred": 0.417,
+   "dev": 0.603
+  },
+  {
+   "formula": "Se0.4Te0.6",
+   "expt": 0.7,
+   "type": "binary_elem",
+   "endpoints": "Se(0.00)+Te(0.00)",
+   "pred": 0.0,
+   "dev": 0.7
+  },
+  {
+   "formula": "Zn0.15Cd0.85Se",
+   "expt": 2.6,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+CdSe(0.46)",
+   "pred": 0.57,
+   "dev": 2.03
+  },
+  {
+   "formula": "In0.5As0.5Ga0.5P0.5",
+   "expt": 1.55,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 0.743,
+   "dev": 0.807
+  },
+  {
+   "formula": "SnS0.99Se0.01",
+   "expt": 1.08,
+   "type": "anion_solid",
+   "endpoints": "SnS(0.74)+SnSe(0.20)",
+   "pred": 0.74,
+   "dev": 0.34
+  },
+  {
+   "formula": "Cu0.3Ga1.7S2.7",
+   "expt": 2.55,
+   "type": "solid_solution",
+   "endpoints": "CuS(0.00)+GaS(1.42)",
+   "pred": 1.205,
+   "dev": 1.345
+  },
+  {
+   "formula": "Hg6.5As4CdCl6",
+   "expt": 1.86,
+   "type": "solid_solution",
+   "endpoints": "HgCl(2.25)+CdCl(0.00)",
+   "pred": 1.953,
+   "dev": -0.093
+  },
+  {
+   "formula": "Ga0.8Sb0.8Zn0.2Te0.2",
+   "expt": 1.15,
+   "type": "solid_solution",
+   "endpoints": "GaTe(0.92)+ZnTe(1.06)",
+   "pred": 0.945,
+   "dev": 0.205
+  },
+  {
+   "formula": "Li0.2Na0.8AsSe2",
+   "expt": 1.72,
+   "type": "solid_solution",
+   "endpoints": "LiSe(0.00)+NaSe(0.49)",
+   "pred": 0.394,
+   "dev": 1.326
+  },
+  {
+   "formula": "Pb0.93Sn0.07Se",
+   "expt": 0.08,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.721,
+   "dev": -0.641
+  },
+  {
+   "formula": "Ga0.99Sb0.99Zn0.01Te0.01",
+   "expt": 0.72,
+   "type": "solid_solution",
+   "endpoints": "GaTe(0.92)+ZnTe(1.06)",
+   "pred": 0.918,
+   "dev": -0.198
+  },
+  {
+   "formula": "Ag0.5Eu1.75GeS4",
+   "expt": 2.14,
+   "type": "solid_solution",
+   "endpoints": "AgS(0.00)+EuS(0.00)",
+   "pred": 0.0,
+   "dev": 2.14
+  },
+  {
+   "formula": "Pb0.8Sn0.2Se",
+   "expt": 0.06,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.648,
+   "dev": -0.588
+  },
+  {
+   "formula": "Pb0.97Se0.97Ge0.03S0.03",
+   "expt": 0.28,
+   "type": "anion_solid",
+   "endpoints": "PbSe(0.76)+PbS(0.58)",
+   "pred": 0.755,
+   "dev": -0.475
+  },
+  {
+   "formula": "Ga0.01As0.01Zn0.99Se0.99",
+   "expt": 2.59,
+   "type": "solid_solution",
+   "endpoints": "GaSe(0.72)+ZnSe(1.22)",
+   "pred": 1.219,
+   "dev": 1.371
+  },
+  {
+   "formula": "Bi2Te2.1Se0.9",
+   "expt": 0.3,
+   "type": "anion_solid",
+   "endpoints": "BiTe(0.00)+BiSe(0.00)",
+   "pred": 0.0,
+   "dev": 0.3
+  },
+  {
+   "formula": "Se0.6Te0.4",
+   "expt": 1.2,
+   "type": "binary_elem",
+   "endpoints": "Se(0.00)+Te(0.00)",
+   "pred": 0.0,
+   "dev": 1.2
+  },
+  {
+   "formula": "In0.95As0.95Cd0.05Te0.05",
+   "expt": 0.68,
+   "type": "solid_solution",
+   "endpoints": "InTe(0.00)+CdTe(0.53)",
+   "pred": 0.026,
+   "dev": 0.654
+  },
+  {
+   "formula": "In0.5Al0.5P",
+   "expt": 2.3,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+AlP(1.79)",
+   "pred": 1.062,
+   "dev": 1.237
+  },
+  {
+   "formula": "In0.93As0.93Cd0.07Te0.07",
+   "expt": 0.68,
+   "type": "solid_solution",
+   "endpoints": "InTe(0.00)+CdTe(0.53)",
+   "pred": 0.037,
+   "dev": 0.643
+  },
+  {
+   "formula": "Ga0.01Sb0.01Cd0.99Te0.99",
+   "expt": 1.35,
+   "type": "solid_solution",
+   "endpoints": "GaTe(0.92)+CdTe(0.53)",
+   "pred": 0.53,
+   "dev": 0.82
+  },
+  {
+   "formula": "Hg0.6Cd0.4Se",
+   "expt": 0.95,
+   "type": "solid_solution",
+   "endpoints": "HgSe(0.00)+CdSe(0.46)",
+   "pred": 0.182,
+   "dev": 0.768
+  },
+  {
+   "formula": "Bi2Te2.97Se0.03",
+   "expt": 0.15,
+   "type": "anion_solid",
+   "endpoints": "BiTe(0.00)+BiSe(0.00)",
+   "pred": 0.0,
+   "dev": 0.15
+  },
+  {
+   "formula": "Hg0.796Cd0.204Te",
+   "expt": 0.06,
+   "type": "solid_solution",
+   "endpoints": "HgTe(0.00)+CdTe(0.53)",
+   "pred": 0.107,
+   "dev": -0.047
+  },
+  {
+   "formula": "LaS1.86Se0.14",
+   "expt": 2.5,
+   "type": "anion_solid",
+   "endpoints": "LaS(0.00)+LaSe(0.00)",
+   "pred": 0.0,
+   "dev": 2.5
+  },
+  {
+   "formula": "Bi2Te0.9Se2.1",
+   "expt": 0.28,
+   "type": "anion_solid",
+   "endpoints": "BiTe(0.00)+BiSe(0.00)",
+   "pred": 0.0,
+   "dev": 0.28
+  },
+  {
+   "formula": "Ga0.8Al0.2P",
+   "expt": 2.3,
+   "type": "solid_solution",
+   "endpoints": "GaP(1.16)+AlP(1.79)",
+   "pred": 1.283,
+   "dev": 1.017
+  },
+  {
+   "formula": "In0.3Ga0.7P",
+   "expt": 2.2,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 0.908,
+   "dev": 1.292
+  },
+  {
+   "formula": "Se0.5Te0.5",
+   "expt": 1.0,
+   "type": "binary_elem",
+   "endpoints": "Se(0.00)+Te(0.00)",
+   "pred": 0.0,
+   "dev": 1.0
+  },
+  {
+   "formula": "Cu0.05Ga1.95S2.95",
+   "expt": 2.7,
+   "type": "solid_solution",
+   "endpoints": "CuS(0.00)+GaS(1.42)",
+   "pred": 1.383,
+   "dev": 1.317
+  },
+  {
+   "formula": "Cu0.05Ga1.95Se2.95",
+   "expt": 1.96,
+   "type": "solid_solution",
+   "endpoints": "CuSe(0.00)+GaSe(0.72)",
+   "pred": 0.707,
+   "dev": 1.253
+  },
+  {
+   "formula": "Nd1.33Lu0.67S3",
+   "expt": 1.5,
+   "type": "solid_solution",
+   "endpoints": "NdS(0.00)+LuS(0.00)",
+   "pred": 0.0,
+   "dev": 1.5
+  },
+  {
+   "formula": "Cu0.5Ga1.5S2.5",
+   "expt": 2.43,
+   "type": "solid_solution",
+   "endpoints": "CuS(0.00)+GaS(1.42)",
+   "pred": 1.063,
+   "dev": 1.367
+  },
+  {
+   "formula": "Ag1.75InSb5.75Se11",
+   "expt": 0.94,
+   "type": "solid_solution",
+   "endpoints": "AgSe(0.00)+InSe(0.16)",
+   "pred": 0.059,
+   "dev": 0.881
+  },
+  {
+   "formula": "Hg0.8Cd0.2Se",
+   "expt": 0.95,
+   "type": "solid_solution",
+   "endpoints": "HgSe(0.00)+CdSe(0.46)",
+   "pred": 0.091,
+   "dev": 0.859
+  },
+  {
+   "formula": "Ga0.9Sb0.9Cd0.1Te0.1",
+   "expt": 0.78,
+   "type": "solid_solution",
+   "endpoints": "GaTe(0.92)+CdTe(0.53)",
+   "pred": 0.878,
+   "dev": -0.098
+  },
+  {
+   "formula": "Zn0.5Hg0.5Se",
+   "expt": 0.6,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+HgSe(0.00)",
+   "pred": 0.612,
+   "dev": -0.012
+  },
+  {
+   "formula": "Bi2Te2.97Se0.03",
+   "expt": 0.16,
+   "type": "anion_solid",
+   "endpoints": "BiTe(0.00)+BiSe(0.00)",
+   "pred": 0.0,
+   "dev": 0.16
+  },
+  {
+   "formula": "Zn0.5Cd0.5Se",
+   "expt": 2.9,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+CdSe(0.46)",
+   "pred": 0.84,
+   "dev": 2.06
+  },
+  {
+   "formula": "Ag0.5Pb1.75GeS4",
+   "expt": 1.83,
+   "type": "solid_solution",
+   "endpoints": "AgS(0.00)+PbS(0.58)",
+   "pred": 0.45,
+   "dev": 1.38
+  },
+  {
+   "formula": "Pb0.99Sn0.01Se",
+   "expt": 0.17,
+   "type": "solid_solution",
+   "endpoints": "PbSe(0.76)+SnSe(0.20)",
+   "pred": 0.754,
+   "dev": -0.584
+  },
+  {
+   "formula": "Bi2Te2.7Se0.3",
+   "expt": 0.21,
+   "type": "anion_solid",
+   "endpoints": "BiTe(0.00)+BiSe(0.00)",
+   "pred": 0.0,
+   "dev": 0.21
+  },
+  {
+   "formula": "Zn0.75Hg0.25Se",
+   "expt": 1.4,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+HgSe(0.00)",
+   "pred": 0.918,
+   "dev": 0.482
+  },
+  {
+   "formula": "PbSe0.01S0.99",
+   "expt": 0.37,
+   "type": "anion_solid",
+   "endpoints": "PbSe(0.76)+PbS(0.58)",
+   "pred": 0.58,
+   "dev": -0.21
+  },
+  {
+   "formula": "Ag0.5Pb1.75GeSe4",
+   "expt": 1.51,
+   "type": "solid_solution",
+   "endpoints": "AgSe(0.00)+PbSe(0.76)",
+   "pred": 0.591,
+   "dev": 0.919
+  },
+  {
+   "formula": "Bi2Te2.7Se0.3",
+   "expt": 0.2,
+   "type": "anion_solid",
+   "endpoints": "BiTe(0.00)+BiSe(0.00)",
+   "pred": 0.0,
+   "dev": 0.2
+  },
+  {
+   "formula": "Zn0.43Cd0.57Se",
+   "expt": 2.9,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+CdSe(0.46)",
+   "pred": 0.786,
+   "dev": 2.114
+  },
+  {
+   "formula": "Cu0.4Ga1.6S2.6",
+   "expt": 2.5,
+   "type": "solid_solution",
+   "endpoints": "CuS(0.00)+GaS(1.42)",
+   "pred": 1.134,
+   "dev": 1.366
+  },
+  {
+   "formula": "Zn0.65Hg0.35Se",
+   "expt": 1.0,
+   "type": "solid_solution",
+   "endpoints": "ZnSe(1.22)+HgSe(0.00)",
+   "pred": 0.796,
+   "dev": 0.204
+  },
+  {
+   "formula": "In0.2As0.2Ga0.8P0.8",
+   "expt": 2.15,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+GaP(1.16)",
+   "pred": 0.99,
+   "dev": 1.16
+  },
+  {
+   "formula": "Hg0.9Cd0.1Se",
+   "expt": 1.5,
+   "type": "solid_solution",
+   "endpoints": "HgSe(0.00)+CdSe(0.46)",
+   "pred": 0.046,
+   "dev": 1.454
+  },
+  {
+   "formula": "Cd0.6Te0.6Al0.4Sb0.4",
+   "expt": 1.8,
+   "type": "solid_solution",
+   "endpoints": "CdTe(0.53)+AlTe(0.74)",
+   "pred": 0.612,
+   "dev": 1.188
+  },
+  {
+   "formula": "Se0.2Te0.8",
+   "expt": 0.4,
+   "type": "binary_elem",
+   "endpoints": "Se(0.00)+Te(0.00)",
+   "pred": 0.0,
+   "dev": 0.4
+  },
+  {
+   "formula": "Ga0.2Al0.8P",
+   "expt": 2.43,
+   "type": "solid_solution",
+   "endpoints": "GaP(1.16)+AlP(1.79)",
+   "pred": 1.666,
+   "dev": 0.764
+  },
+  {
+   "formula": "In0.8Al0.2P",
+   "expt": 1.7,
+   "type": "solid_solution",
+   "endpoints": "InP(0.33)+AlP(1.79)",
+   "pred": 0.624,
+   "dev": 1.076
+  }
+ ],
+ "unmatched": [
+  "GaAs0.4P0.6",
+  "Pb0.97Sn0.03Te",
+  "Gd1.05Sc0.95Se3",
+  "Pb0.97Se0.97Sn0.03Se0.03",
+  "Cs1.13Cd1.13Bi2.87Se6",
+  "Ge0.3Si0.7",
+  "Bi0.4Te3Sb1.6",
+  "Al0.74Gd3Si0.7S7",
+  "Zn0.55S0.55Ga0.45P0.45",
+  "Zn0.95S0.95Ga0.05P0.05",
+  "Ga1.002Sb0.998Te0.006",
+  "InSb0.99As0.01",
+  "Ga1.1Sb0.9Se0.3",
+  "Pb0.95Te0.95Ge0.05S0.05",
+  "Pb0.94Sn0.06Te",
+  "Pb0.99Se0.99Sn0.01Se0.01",
+  "Tl2.35Sb8.65Se14",
+  "Ir0.67Se2",
+  "Pb0.95Mn0.05Te",
+  "La1.86Tb1.14Ga1.67S7",
+  "InSb0.3As0.7",
+  "Ga1.01Sb0.99Se0.03",
+  "Pb0.01Sn0.99Te",
+  "GaAs0.05Sb0.95",
+  "Pb0.94Se0.94Ge0.06Te0.06",
+  "Sr2Bi5.42La2.58S14",
+  "Zn0.7S0.7Ga0.3P0.3",
+  "Ga0.99P0.99Zn0.01Se0.01",
+  "Pb0.99Te0.99Ge0.01S0.01",
+  "K6Nb2.97Ta1.03S25",
+  "GaAs0.65Sb0.35",
+  "Cs2Bi8.81La1.19S16",
+  "Pb0.97Sn0.03Te",
+  "InSb0.7As0.3",
+  "Bi0.2Te3Sb1.8",
+  "Pb0.94Se0.94Sn0.06Se0.06",
+  "Pb0.995TeGa0.005",
+  "Pb0.999Sn0.001Te",
+  "Sn0.5GaZn5.5O8",
+  "Ge0.02Si0.98",
+  "Pb0.99Sn0.01Te",
+  "Na2Hg3S2.51Se1.49",
+  "Ge0.774Si0.226",
+  "Pb0.999Sn0.001Te",
+  "Pb0.85Sn0.15Te",
+  "Pb0.65Se0.65Sn0.35Te0.35",
+  "GaAs0.2Sb0.8",
+  "Hg7.5As4Cl6",
+  "Pb0.9Mn0.1Te",
+  "InSb0.1As0.9",
+  "Pb0.9Se0.9Bi0.2Te0.3",
+  "Pt0.97S2",
+  "Pb0.99Se0.99Ge0.01Te0.01",
+  "Pb0.01Sn0.99Te",
+  "Pb0.9Ge0.1Te",
+  "GaAs0.86Sb0.14",
+  "Ge0.9355Si0.0645",
+  "Ga0.4Al0.6As",
+  "Zn0.01S0.01Ga0.99P0.99",
+  "BiSb0.15",
+  "Ag0.1Cd0.8In2.1Te4",
+  "K6Nb1.07Ta2.93S22",
+  "Bi1.4Te3Sb0.6",
+  "PbTe0.05Se0.95",
+  "Pb0.94Se0.94Sn0.06Se0.06",
+  "Pb0.92Se0.92Sn0.08Te0.08",
+  "Cs2Hg4.65Cd1.35S7",
+  "Ag2.7Ba6Sn4.3S16",
+  "Ga0.6In0.4As",
+  "Ga0.5In0.5As",
+  "Pb0.995TeIn0.005",
+  "Pb0.85Sn0.15Te",
+  "Pb0.77Sn0.23Te",
+  "GaAs0.8P0.2",
+  "GaAs0.99P0.01",
+  "Pb0.99TeIn0.01",
+  "Ga1.1Sb0.9Te0.3",
+  "Pb0.99Ge0.01Se",
+  "Pb0.85Sn0.15Te",
+  "Ge0.88Si0.12",
+  "GaAs0.01Sb0.99",
+  "Pb0.96TeIn0.04",
+  "CuGa1.6In0.4S3.5",
+  "InSb0.01As0.99",
+  "Pb0.999TeIn0.001",
+  "Pb0.8Ge0.2Se",
+  "Zn0.9S0.9Ga0.1P0.1",
+  "Ge0.542Si0.458",
+  "K2Hg3S1.03Se2.97",
+  "Cs2Hg5.75Cd0.25S7",
+  "GaAs0.6P0.4",
+  "Pb0.95Ge0.05Te",
+  "Bi2Cu0.96Se3I",
+  "Pb0.95Se0.95Sn0.05Se0.05",
+  "GaAs0.5P0.5",
+  "Gd1.87Lu2.13Se6",
+  "CoTe1.88",
+  "Ge0.9Si0.1",
+  "Ba3B1.5S6Bi0.5",
+  "Bi3Ge3O10.5",
+  "Pb0.98Se0.98Bi0.04Te0.06",
+  "Li4.5Mn0.5TeO6",
+  "InSb0.4As0.6",
+  "Ag0.4Cd0.2In2.4Te4",
+  "Pb0.8Se0.8Bi0.4Te0.6",
+  "Pb0.999TeTl0.001",
+  "Ta0.67Zr1.33O1.38N1.97",
+  "Pb0.6Ge0.4Te",
+  "Pb0.85Se0.85Sn0.15Se0.15",
+  "Bi1.6Te3Sb0.4",
+  "Ta0.67Zr1.33O0.42N2.61",
+  "GaAs0.15Sb0.85",
+  "Pb0.999Se0.999Sn0.001Se0.001",
+  "K0.6Cs0.4PSe6",
+  "Ga1.001Sb0.999Se0.003",
+  "Pb0.99Ge0.01Te",
+  "GaAs0.1P0.9G1128",
+  "Ag0.25Cd0.5In2.25Te4",
+  "InSb0.5As0.5",
+  "GaAs0.7Sb0.3",
+  "Ge0.4Si0.6",
+  "Ge0.838Si0.162",
+  "PbTe0.99Se0.01",
+  "GaAs0.2P0.8",
+  "Zn0.85S0.85Ga0.15P0.15",
+  "Ga1.02Sb0.98Te0.06",
+  "Pb0.59Ge0.41Te",
+  "Pb0.9Se0.9Sn0.1Se0.1",
+  "Bi1.98Te3Sb0.02",
+  "Ge0.999Si0.001",
+  "La3Mg0.5SnS14",
+  "K1.83Cd1.83Bi2.17S6",
+  "Ga0.28In0.72As",
+  "AgLi0.33Ti0.67O2",
+  "Pb0.8Sn0.2Te",
+  "Ga0.65Al0.35As",
+  "Pb0.999Se0.999Bi0.002Te0.003",
+  "Pb0.93TeIn0.07",
+  "Pb0.999Sn0.001Te",
+  "Pb0.93TeTl0.07",
+  "K1.46Sn3.09Bi7.45Se15",
+  "Pb0.61Ge0.39Te",
+  "Pb0.96TeTl0.04",
+  "Pb0.99TeGa0.01",
+  "Pb0.9Sn0.1Te",
+  "Li4.5Ga0.5TeO6",
+  "Zn0.3S0.3Ga0.7P0.7",
+  "Ga0.01P0.01Zn0.99Se0.99",
+  "Rh0.67S2",
+  "Pb0.92Sn0.08Te",
+  "Ge0.891Si0.109",
+  "Pb0.999Sn0.001Te",
+  "Ge0.8Si0.2",
+  "Ga0.8In0.2As",
+  "Gd3.04Sc0.96S6",
+  "Pb0.999TeGa0.001",
+  "Ge0.92Si0.08",
+  "Ge0.93Si0.07",
+  "Ag2.7Ba6Sn4.3S16",
+  "Pb0.995TeTl0.005",
+  "GaAs0.99Sb0.01",
+  "Mn2.04Gd1.47In0.49S5",
+  "Pb2B3O7.5H2",
+  "Rh0.67Se2",
+  "Ge0.001Si0.999",
+  "DyTe1.7",
+  "Zn0.85S0.85Ga0.15P0.15",
+  "Zn0.55S0.55Ga0.45P0.45",
+  "Ga0.2In0.8As",
+  "Ga0.3P0.3Zn0.7Se0.7",
+  "Pb0.85Sn0.15Te",
+  "Sn0.5GaZn3.5O6",
+  "Ga0.25Al0.75As",
+  "Rb1.54Cd1.54Bi2.46S6",
+  "CuGaInS3.5",
+  "Ag0.4Cd0.5In2.2Te4",
+  "Pb0.7Ge0.3Se",
+  "Na7.36Ga7.24Sn4.78Se24",
+  "Pr2.48Tb0.52Ga1.67S7",
+  "Pb2Bi5.9La2.1S14",
+  "Pb0.83Sn0.17Te",
+  "CeMn0.5OSe",
+  "Li4.5Fe0.5TeO6",
+  "K1.25Pb3.5Bi7.25Se15",
+  "Ga1.01Sb0.99Te0.03",
+  "Ge0.1Si0.9",
+  "Dy3Al0.5SiS7",
+  "Ga1.005Sb0.995Te0.015",
+  "TiC0.9",
+  "Ba3Sn0.87Bi2.13Se8",
+  "Ga1.05Sb0.95Se0.15",
+  "Cs6.40Na1.60Ga8Ge38",
+  "Ag0.2Cd0.75In2.1Te4",
+  "Zn0.7S0.7Ga0.3P0.3",
+  "Ga0.5Al0.5As",
+  "GaAs0.01P0.99",
+  "Eu1.83Ta15O32",
+  "Pb0.9Ge0.1Se",
+  "Pb0.8Sn0.2Te",
+  "K2Hg3S2.69Se1.31",
+  "Pb0.93TeGa0.07",
+  "DyTe1.40",
+  "Mn1.95GdIn1.05S5",
+  "Ge0.97Si0.03",
+  "Pb0.98Te0.98Ge0.02S0.02",
+  "La5Cu6.33O4S7",
+  "Pb0.85Ge0.15Te",
+  "Li4.5Cr0.5TeO6",
+  "Pb0.95Se0.95Sn0.05Se0.05",
+  "Sn0.5GaZn4.5O7",
+  "Cu1.8S",
+  "Sm3Al0.33SiS7",
+  "Ga1.05Sb0.95Te0.15",
+  "Ga1.005Sb0.995Se0.015",
+  "Li4.5Al0.5TeO6",
+  "Pb0.72Se0.72Sn0.28Te0.28",
+  "Cs1.43Cd1.43Bi2.57S6",
+  "Pb0.75Sn0.25Te",
+  "CuGa0.4In1.6S3.5",
+  "Ga1.02Sb0.98Se0.06",
+  "Ga0.7Al0.3As",
+  "Tm4Sb2Se11.68",
+  "PbTe0.01Se0.99",
+  "GaAs0.9P0.1",
+  "Pb0.85Se0.85Ge0.15Te0.15",
+  "GaAs0.3P0.7",
+  "AgLi0.33Sn0.67O2",
+  "K0.8Hg1.2Sn2S8",
+  "Bi1.8Te3Sb0.2",
+  "Zn0.95S0.95Ga0.05P0.05",
+  "Zn0.99S0.99Ga0.01P0.01",
+  "Ga0.5P0.5Zn0.5Se0.5",
+  "Ge0.7Si0.3",
+  "Ta0.67Zr1.33O1.89N1.63",
+  "InSb0.9As0.1",
+  "Ge0.06Si0.94",
+  "Pb0.97Se0.97Sn0.03Se0.03",
+  "Ga0.75P0.75Zn0.25Se0.25",
+  "Ta1.33Zr0.67O0.12N3.03",
+  "Pb0.8Ge0.2Te",
+  "Pb0.92Sn0.08Te",
+  "GaAs0.7P0.3",
+  "Pb0.7Ge0.3Te",
+  "InSb0.6As0.4",
+  "Pb0.999Se0.999Sn0.001Se0.001",
+  "Zn0.2Ba2B2S5.2",
+  "PrTe1.9",
+  "Ga0.99In0.01As",
+  "Pb0.99TeTl0.01",
+  "Yb4Sb2S11.25",
+  "DyTe1.45",
+  "InSb0.8As0.2",
+  "Pb0.85Se0.85Sn0.15Te0.15",
+  "Pb0.8Se0.8Ge0.2Te0.2",
+  "Ir0.67S2",
+  "Ge0.653Si0.347",
+  "Ge0.6Si0.4",
+  "Pb0.8Se0.8Sn0.2Te0.2",
+  "Ga0.85Al0.15As",
+  "Ga0.05P0.05Zn0.95Se0.95",
+  "Ga0.7In0.3As",
+  "Ga1.002Sb0.998Se0.006",
+  "Pb0.75Ge0.25Te",
+  "Pb0.96TeGa0.04",
+  "Pr2Sr2PtO7.07",
+  "Ge0.2Si0.8",
+  "Pb0.95Ge0.05Se",
+  "La2Sr2PtO7.13",
+  "PbTe0.5Se0.5",
+  "InSb0.2As0.8",
+  "Ga0.1P0.1Zn0.9Se0.9",
+  "GaAs0.75Sb0.25",
+  "Ga1.001Sb0.999Te0.003",
+  "Gd6Ge2.5S14",
+  "Bi0.6Te3Sb1.4"
+ ]
+}
