@@ -6,7 +6,7 @@ Qin, C. (2026). Systematic Underestimation of Defect and Alloy Band Gaps by DFT
 Endpoint Interpolation. Zenodo: 10.5281/zenodo.21788464 (v1.1).
 
 Inputs (in this directory):
-  defect_gap_pipeline_v1.json  - 274 matched + 275 unmatched analysis set
+  defect_gap_pipeline_v2.json  - 274 matched + 275 unmatched analysis set
 Outputs: prints all reported statistics.
 """
 import json
@@ -14,13 +14,14 @@ import re
 import statistics
 
 def main():
-    with open("defect_gap_pipeline_v1.json") as f:
+    with open("defect_gap_pipeline_v2.json") as f:
         data = json.load(f)
     results = data["results"]
     unmatched = data["unmatched"]
 
     devs = [r["dev"] for r in results]
     print(f"Matched systems: {len(results)}/{data['n_total']} ({100*len(results)/data['n_total']:.0f}%)")
+    print(f"Types: {dict(__import__('collections').Counter(r['type'] for r in results))}")
     print(f"Mean deviation:  {statistics.mean(devs):+.3f} eV")
     print(f"Median deviation:{statistics.median(devs):+.3f} eV")
     print(f"MAE:             {statistics.mean(abs(d) for d in devs):.3f} eV")
